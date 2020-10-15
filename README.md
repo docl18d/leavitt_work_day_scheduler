@@ -1,1 +1,1 @@
-# leavitt_work_day_scheduler
+Will add read me information once code is complete
